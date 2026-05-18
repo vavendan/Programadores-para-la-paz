@@ -1,0 +1,7 @@
+Porque el desarrollo de software cambia constantemente es importante: 
+saber qué cambios se hicieron y cuándo
+encontrar rápidamente qué modificación causó un problema
+colaborar sin sobrescribir el trabajo de otros
+recuperar versiones anteriores
+documenta la evolución del proyecto y facilitar el mantenimiento
+Git funciona como una mezcla entre respaldo, historial médico y cámara de seguridad del proyecto.
