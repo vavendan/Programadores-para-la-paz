@@ -1,0 +1,4 @@
+{
+  tipo: Ambiente,
+  descripcion: Acumulación de residuos en una zona comunitaria
+}
