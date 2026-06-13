@@ -1,0 +1,9 @@
+No exponer datos personales de los usuarios en plataformas públicas.
+
+Proteger las credenciales con contraseñas seguras y autenticación adicional.
+
+Usar conexiones seguras mediante HTTPS y certificados SSL.
+
+Registrar y monitorear los accesos al sistema para detectar actividades sospechosas.
+
+Limitar el acceso a la información sensible solo a usuarios autorizados.

@@ -1,0 +1,5 @@
+1.Proteger las contraseñas con claves fuertes y únicas.
+
+2.No compartir credenciales de acceso con otras personas.
+
+3.Mantener el software y los sistemas actualizados.
