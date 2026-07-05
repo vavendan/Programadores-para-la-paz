@@ -1,0 +1,25 @@
+Formulario para crear una causa
+
+Campos: título, descripción y fecha.
+Botón: Crear causa.
+Propósito: permitir que los usuarios registren una nueva causa comunitaria.
+
+Vista de causas disponibles
+
+Mostrar una lista con todas las causas activas.
+Cada causa debe incluir el título, una breve descripción, la fecha de creación y el estado.
+
+Botón para apoyar una causa
+
+Cada causa tendrá un botón con el texto Apoyar.
+Al hacer clic, el sistema registrará el apoyo del usuario.
+
+Contador de apoyos
+
+Junto al botón se mostrará el número de apoyos recibidos por cada causa.
+El contador deberá actualizarse cada vez que un usuario apoye la causa.
+
+Seguridad y privacidad
+
+La interfaz no debe mostrar información privada de los usuarios.
+Solo se visualizará la información necesaria para participar en la plataforma de forma segura.
