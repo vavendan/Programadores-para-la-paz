@@ -1,0 +1,10 @@
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso
+Prioridad:Muy alta
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte
+Prioridad:Alta
+Como miembro del equipo quiero consultar reportes para hacer seguimiento a los casos
+Prioridad:Media
+Como ciudadano quiero adjuntar fotos o documentos para respaldar mi reporte
+Prioridad:Media
+Como coordinador quiero generar un resumen semanal de incidencias para identificar problemas recurrentes en la comunidad
+Prioridad:Baja
