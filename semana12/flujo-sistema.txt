@@ -1,0 +1,8 @@
+1. El ciudadano ingresa al sistema e inicia sesión.
+2. El ciudadano crea una nueva causa diligenciando el formulario.
+3. El sistema valida la información y registra la causa en la base de datos.
+4. La causa queda disponible para que otros ciudadanos la consulten.
+5. Otros ciudadanos pueden apoyar la causa con un clic.
+6. El sistema registra cada apoyo y actualiza el contador automáticamente.
+7. Cuando la causa alcanza el número de apoyos establecido, el sistema genera un documento PDF con la petición.
+8. El documento puede ser descargado por el ciudadano para presentarlo ante la entidad correspondiente.
